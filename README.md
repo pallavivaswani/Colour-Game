@@ -6,8 +6,17 @@ This may seem confusing, so why don't you try it yourself?
 python colourgame.py
 
 ## Screenshot
-How to Play
+How to Play (click on the image)
+
 [![Click here to view](output/output.PNG)](output/output_video.mp4)
+
+Type "Yellow" and not "Blue"
+
+![](output/output_pressEnter.PNG)
+
+When Time Runs Out
+
+![](output/output_TimeUp.PNG)
 
 #### 
 Please do ⭐ the repository, if it helped you in anyway.
